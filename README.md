@@ -11,5 +11,8 @@ Link: https://pixabay.com/photos/giraffe-zoo-animal-animal-portrait-3344366/
 giraffe3.jpg by "birder62"
 Link: https://pixabay.com/photos/giraffes-heads-ossicones-901009/
 
-giraffe4.jpf by "schauhi"
+giraffe4.jpg by "schauhi"
 Link: https://pixabay.com/photos/nose-giraffe-head-hair-close-up-4610466/
+
+giraffe5.jpg by "Alexas_Fotos"
+Link: https://pixabay.com/de/photos/giraffe-kopf-ossicones-2222908/
