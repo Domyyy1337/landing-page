@@ -6,6 +6,9 @@
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
   margin: 0px;
 }
 
@@ -71,7 +74,6 @@ button {
   align-items: center;
   justify-content: center;
   padding: 5px 20px;
-  height: 40px;
 }
 
 .random-info {
