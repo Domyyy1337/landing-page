@@ -4,7 +4,6 @@ Landing Page for The Odin Project
 giraffe1.jpg by "PublicDomainPictures"
 Link: https://pixabay.com/photos/giraffe-animal-safari-mammal-165200/
 
-
 giraffe2.jpg by "Alexas_Fotos"
 Link: https://pixabay.com/photos/giraffe-zoo-animal-animal-portrait-3344366/
 

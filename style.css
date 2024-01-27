@@ -1,0 +1,145 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.awesome {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 32px;
+}
+
+.white-text {
+    color: #f9faf8;
+}
+
+.quotee {
+    align-self: flex-end;
+    font-size: 18px;
+    color: #1F2937;
+    margin-right: 5%;
+    font-weight: bold;
+}
+
+.signup1 {
+    max-width: 400px;
+}
+
+.large {
+    border-radius: 10%;
+    display: block;
+    max-width: 50%;
+    min-width: 25%;
+}
+
+body {
+    display: flex;
+    flex-flow: column;
+}
+
+.heading, .footer {
+    background-color: #1F2937;
+}
+
+button {
+    padding: 5px 5px;
+    font-size: 16px;
+    width: 100px;
+    height: 30px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 10%;
+    border: 0px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 20px;
+    height: 40px;
+}
+
+.random-info {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 50px;
+}
+
+
+figcaption {
+    font-size: 18px;
+    color: rgb(69, 66, 66);
+    max-width: 200px;
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 32px;
+}
+
+.box {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.small {
+    border-radius: 10%;
+    height: 200px;
+    border: 5px solid #3881f675;
+}
+
+.giraffe-top {
+    width: 300px;
+    border: 0px;
+}
+
+.hlink {
+    margin: 10px;
+}
+
+.header-logo {
+    margin-right: auto;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    display: flex;
+    flex-flow: column;
+    background-color: #e5e7eb;
+    padding: 100px;
+    gap: 10px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 100px;
+    font-weight: lighter;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.awesome-font {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
